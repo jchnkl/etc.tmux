@@ -1,0 +1,6 @@
+*
+!/.gitignore.d
+!/.gitignore.d/tmux
+!/.tmux.conf
+!/.tmux.solarized.conf.dark
+!/.tmux.solarized.conf.light
